@@ -1,0 +1,29 @@
+{
+  "name": "ffgen",
+  "version": "1.0.0",
+  "description": "A command-line wrapper for the fontfacegen package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ffgen": "bin/ffgen.js"
+  },
+  "keywords": [
+    "font-face",
+    "font-face",
+    "generator",
+    "fontface",
+    "generator",
+    "generate",
+    "fonts",
+    "css",
+    "font",
+    "generator"
+  ],
+  "author": "aschmelyun",
+  "license": "ISC",
+  "dependencies": {
+    "fontfacegen": "^0.3.1"
+  }
+}

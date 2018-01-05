@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "VWHead-Bold";
+    src: url("VWHeadBold.eot");
+    src: url("VWHeadBold.eot?#iefix") format("embedded-opentype"),
+         url("VWHeadBold.woff2") format("woff2"),
+         url("VWHeadBold.woff") format("woff"),
+         url("VWHeadBold.ttf") format("ttf"),
+         url("VWHeadBold.svg#VWHead-Bold") format("svg");
+    font-style: normal;
+    font-weight: 700;
+}
